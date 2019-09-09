@@ -1,2 +1,2 @@
-# ScalaCocept
+# ScalaConcept
 Programming In Scala
